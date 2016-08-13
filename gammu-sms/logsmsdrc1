@@ -1,0 +1,109 @@
+Fri 2016/08/12 19:02:08 gammu-smsd[3456]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:02:08 gammu-smsd[3456]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:02:08 gammu-smsd[3456]: Created Windows RW shared memory at 003C0000
+Fri 2016/08/12 19:02:08 gammu-smsd[3456]: Starting phone communication...
+Fri 2016/08/12 19:03:01 gammu-smsd[3456]: Communication established
+Fri 2016/08/12 19:03:02 gammu-smsd[3456]: Read 3 messages
+Fri 2016/08/12 19:03:33 gammu-smsd[3456]: Error getting send status of message: Unknown error. (UNKNOWN[27])
+Fri 2016/08/12 19:04:05 gammu-smsd[3456]: Error getting send status of message: Unknown error. (UNKNOWN[27])
+Fri 2016/08/12 19:04:07 gammu-smsd[3456]: Read 2 messages
+Fri 2016/08/12 19:04:12 gammu-smsd[3456]: Read 1 messages
+Fri 2016/08/12 19:04:38 gammu-smsd[3456]: Error getting send status of message: Unknown error. (UNKNOWN[27])
+Fri 2016/08/12 19:08:10 gammu-smsd[1732]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:08:10 gammu-smsd[1732]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:08:10 gammu-smsd[1732]: Created Windows RW shared memory at 003D0000
+Fri 2016/08/12 19:08:10 gammu-smsd[1732]: Starting phone communication...
+Fri 2016/08/12 19:08:18 gammu-smsd[1732]: Communication established
+Fri 2016/08/12 19:10:00 gammu-smsd[1976]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:10:00 gammu-smsd[1976]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:10:00 gammu-smsd[1976]: Created Windows RW shared memory at 00300000
+Fri 2016/08/12 19:10:00 gammu-smsd[1976]: Starting phone communication...
+Fri 2016/08/12 19:10:00 gammu-smsd[1976]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Fri 2016/08/12 19:10:00 gammu-smsd[1976]: Failed to start SMSD, Error 170: The requested resource is in use.
+
+
+Fri 2016/08/12 19:10:07 gammu-smsd[3956]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:10:07 gammu-smsd[3956]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:10:07 gammu-smsd[3956]: Created Windows RW shared memory at 003C0000
+Fri 2016/08/12 19:10:07 gammu-smsd[3956]: Starting phone communication...
+Fri 2016/08/12 19:10:11 gammu-smsd[3956]: Communication established
+Fri 2016/08/12 19:11:52 gammu-smsd[3596]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:11:52 gammu-smsd[3596]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:11:52 gammu-smsd[3596]: Created Windows RW shared memory at 00380000
+Fri 2016/08/12 19:11:52 gammu-smsd[3596]: Starting phone communication...
+Fri 2016/08/12 19:11:56 gammu-smsd[3596]: Communication established
+Fri 2016/08/12 19:11:57 gammu-smsd[3596]: Read 1 messages
+Fri 2016/08/12 19:13:11 gammu-smsd[1392]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:13:11 gammu-smsd[1392]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:13:11 gammu-smsd[1392]: Created Windows RW shared memory at 003C0000
+Fri 2016/08/12 19:13:11 gammu-smsd[1392]: Starting phone communication...
+Fri 2016/08/12 19:13:11 gammu-smsd[1392]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Fri 2016/08/12 19:13:11 gammu-smsd[1392]: Failed to start SMSD, Error 170: The requested resource is in use.
+
+
+Fri 2016/08/12 19:13:16 gammu-smsd[4004]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:13:16 gammu-smsd[4004]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:13:16 gammu-smsd[4004]: Created Windows RW shared memory at 00280000
+Fri 2016/08/12 19:13:16 gammu-smsd[4004]: Starting phone communication...
+Fri 2016/08/12 19:13:23 gammu-smsd[4004]: Communication established
+Fri 2016/08/12 19:14:55 gammu-smsd[4004]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Fri 2016/08/12 19:18:21 gammu-smsd[3780]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:18:21 gammu-smsd[3780]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:18:21 gammu-smsd[3780]: Created Windows RW shared memory at 003D0000
+Fri 2016/08/12 19:18:21 gammu-smsd[3780]: Starting phone communication...
+Fri 2016/08/12 19:18:21 gammu-smsd[3780]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Fri 2016/08/12 19:18:21 gammu-smsd[3780]: Failed to start SMSD, Error 170: The requested resource is in use.
+
+
+Fri 2016/08/12 19:18:26 gammu-smsd[3956]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:18:26 gammu-smsd[3956]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:18:26 gammu-smsd[3956]: Created Windows RW shared memory at 003C0000
+Fri 2016/08/12 19:18:26 gammu-smsd[3956]: Starting phone communication...
+Fri 2016/08/12 19:18:30 gammu-smsd[3956]: Communication established
+Fri 2016/08/12 19:18:30 gammu-smsd[3956]: Read 1 messages
+Fri 2016/08/12 19:22:51 gammu-smsd[3956]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Fri 2016/08/12 19:24:17 gammu-smsd[3904]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:24:17 gammu-smsd[3904]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:24:17 gammu-smsd[3904]: Created Windows RW shared memory at 00380000
+Fri 2016/08/12 19:24:17 gammu-smsd[3904]: Starting phone communication...
+Fri 2016/08/12 19:24:17 gammu-smsd[3904]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Fri 2016/08/12 19:24:17 gammu-smsd[3904]: Failed to start SMSD, Error 170: The requested resource is in use.
+
+
+Fri 2016/08/12 19:24:22 gammu-smsd[1096]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:24:22 gammu-smsd[1096]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:24:22 gammu-smsd[1096]: Created Windows RW shared memory at 00380000
+Fri 2016/08/12 19:24:22 gammu-smsd[1096]: Starting phone communication...
+Fri 2016/08/12 19:24:27 gammu-smsd[1096]: Communication established
+Fri 2016/08/12 19:24:27 gammu-smsd[1096]: Read 1 messages
+Fri 2016/08/12 19:26:14 gammu-smsd[1096]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Fri 2016/08/12 19:26:47 gammu-smsd[1096]: Read 1 messages
+Fri 2016/08/12 19:29:53 gammu-smsd[1284]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:29:53 gammu-smsd[1284]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:29:53 gammu-smsd[1284]: Created Windows RW shared memory at 00280000
+Fri 2016/08/12 19:29:53 gammu-smsd[1284]: Starting phone communication...
+Fri 2016/08/12 19:30:01 gammu-smsd[1284]: Error at init connection: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Fri 2016/08/12 19:30:01 gammu-smsd[1284]: Already hit 250 errors
+Fri 2016/08/12 19:30:01 gammu-smsd[1284]: Terminating communication: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Fri 2016/08/12 19:30:01 gammu-smsd[1284]: Starting phone communication...
+Fri 2016/08/12 19:30:09 gammu-smsd[1284]: Communication established
+Fri 2016/08/12 19:32:36 gammu-smsd[300]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:32:36 gammu-smsd[300]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:32:36 gammu-smsd[300]: Created Windows RW shared memory at 003C0000
+Fri 2016/08/12 19:32:36 gammu-smsd[300]: Starting phone communication...
+Fri 2016/08/12 19:33:30 gammu-smsd[664]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:33:30 gammu-smsd[664]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:33:30 gammu-smsd[664]: Created Windows RW shared memory at 003D0000
+Fri 2016/08/12 19:33:30 gammu-smsd[664]: Starting phone communication...
+Fri 2016/08/12 19:33:30 gammu-smsd[664]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Fri 2016/08/12 19:33:30 gammu-smsd[664]: Failed to start SMSD, Error 170: The requested resource is in use.
+
+
+Fri 2016/08/12 19:33:36 gammu-smsd[3872]: Warning: No PIN code in C:\xampp\htdocs\polindes\gammu-sms\smsdrc1 file
+Fri 2016/08/12 19:33:36 gammu-smsd[3872]: Connected to Database: gammu_polindes on localhost
+Fri 2016/08/12 19:33:36 gammu-smsd[3872]: Created Windows RW shared memory at 003C0000
+Fri 2016/08/12 19:33:36 gammu-smsd[3872]: Starting phone communication...
+Fri 2016/08/12 19:33:44 gammu-smsd[3872]: Communication established
+Fri 2016/08/12 19:33:44 gammu-smsd[3872]: Read 1 messages
+Fri 2016/08/12 19:34:41 gammu-smsd[3872]: Read 1 messages
+Fri 2016/08/12 19:38:16 gammu-smsd[3872]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
